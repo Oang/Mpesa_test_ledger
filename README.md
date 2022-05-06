@@ -37,7 +37,7 @@ Below is the home screen, a selected transaction for further viewing and a searc
 
 Home Page | Transaction Page | Search Page
 ------------ | ------------- | -------------
-<img src="https://github.com/Oang/Mpesa_test_ledger/tree/master/gif/home.gif" alt="alt text" height="500px"> | <img src="https://github.com/Oang/Mpesa_test_ledger/tree/master/gif/home-transaction.gif" alt="alt text" height="500px"> | <img src="https://github.com/Oang/Mpesa_test_ledger/tree/master/gif/search.gif" height="500px">
+<img src="https://github.com/Oang/Mpesa_test_ledger/blob/master/gif/home.gif" alt="alt text" height="500px"> | <img src="https://github.com/Oang/Mpesa_test_ledger/tree/master/gif/home-transaction.gif" alt="alt text" height="500px"> | <img src="https://github.com/Oang/Mpesa_test_ledger/tree/master/gif/search.gif" height="500px">
 
 ### Category Page
 
