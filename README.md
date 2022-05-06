@@ -68,7 +68,7 @@ The setting page allows you to change your theme and also delete all of your Mpe
 
 Change Theme | Delete All Data
 ------------ | -------------
-<img src="https://github.com/Oang/Mpesa_test_ledger/blob/master/gif/change-theme.gif" alt="alt text" height="500px"> | <img src="https://github.com/Oang/Mpesa_test_ledger/blob/master/gif/delete-data.gif" alt="alt text" height="500px">
+
 
 ## Contributing
 
