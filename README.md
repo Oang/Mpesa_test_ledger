@@ -5,7 +5,7 @@ This is an MPESA ledger project that receives and listens to SMS from MPESA to c
 
 Set Up|
 ------------ |
-<img src="https://github.com/jama5262/Mpesa-ledger-flutter-project/blob/develop/gif/set-up.gif" alt="alt text" height="500px"> | 
+<img src="https://github.com/Oang/Mpesa-ledger-flutter-project/blob/develop/gif/set-up.gif" alt="alt text" height="500px"> | 
 
 ## Limitations
 As of now the project only supports Android phones
@@ -37,7 +37,7 @@ Below is the home screen, a selected transaction for further viewing and a searc
 
 Home Page | Transaction Page | Search Page
 ------------ | ------------- | -------------
-<img src="https://github.com/jama5262/Mpesa-ledger-flutter-project/blob/develop/gif/home.gif" alt="alt text" height="500px"> | <img src="https://github.com/jama5262/Mpesa-ledger-flutter-project/blob/develop/gif/home-transaction.gif" alt="alt text" height="500px"> | <img src="https://github.com/jama5262/Mpesa-ledger-flutter-project/blob/develop/gif/search.gif" height="500px">
+<img src="https://github.com/Oang/Mpesa-ledger-flutter-project/blob/develop/gif/home.gif" alt="alt text" height="500px"> | <img src="https://github.com/Oang/Mpesa-ledger-flutter-project/blob/develop/gif/home-transaction.gif" alt="alt text" height="500px"> | <img src="https://github.com/Oang/Mpesa-ledger-flutter-project/blob/develop/gif/search.gif" height="500px">
 
 ### Category Page
 
@@ -45,7 +45,7 @@ The following is the category page where you can see the default categories and 
 
 Category Page | Transaction Page | Create Category
 ------------ | ------------- | -------------
-<img src="https://github.com/jama5262/Mpesa-ledger-flutter-project/blob/develop/gif/category.gif" alt="alt text" height="500px"> | <img src="https://github.com/jama5262/Mpesa-ledger-flutter-project/blob/develop/gif/transaction-category.gif" alt="alt text" height="500px"> | <img src="https://github.com/jama5262/Mpesa-ledger-flutter-project/blob/develop/gif/create-category.gif" height="500px"> 
+<img src="https://github.com/Oang/Mpesa-ledger-flutter-project/blob/develop/gif/category.gif" alt="alt text" height="500px"> | <img src="https://github.com/Oang/Mpesa-ledger-flutter-project/blob/develop/gif/transaction-category.gif" alt="alt text" height="500px"> | <img src="https://github.com/Oang/Mpesa-ledger-flutter-project/blob/develop/gif/create-category.gif" height="500px"> 
 
 ### Summary Page
 
@@ -53,14 +53,14 @@ The summary page shows the overall total of your transactions and a year monthly
 
 Summary Page|
 ------------ |
-<img src="https://github.com/jama5262/Mpesa-ledger-flutter-project/blob/develop/gif/summary.gif" alt="alt text" height="500px"> | 
+<img src="https://github.com/Oang/Mpesa-ledger-flutter-project/blob/develop/gif/summary.gif" alt="alt text" height="500px"> | 
 ### Calculator
 
 You can use the calculator page to calculate the transaction charges
 
 Calculator Page|
 ------------ |
-<img src="https://github.com/jama5262/Mpesa-ledger-flutter-project/blob/develop/gif/calculator.gif" alt="alt text" height="500px"> | 
+<img src="https://github.com/Oang/Mpesa-ledger-flutter-project/blob/develop/gif/calculator.gif" alt="alt text" height="500px"> | 
 
 ### Setting Page
 
@@ -68,7 +68,7 @@ The setting page allows you to change your theme and also delete all of your Mpe
 
 Change Theme | Delete All Data
 ------------ | -------------
-<img src="https://github.com/jama5262/Mpesa-ledger-flutter-project/blob/develop/gif/change-theme.gif" alt="alt text" height="500px"> | <img src="https://github.com/jama5262/Mpesa-ledger-flutter-project/blob/develop/gif/delete-data.gif" alt="alt text" height="500px">
+<img src="https://github.com/Oang/Mpesa-ledger-flutter-project/blob/develop/gif/change-theme.gif" alt="alt text" height="500px"> | <img src="https://github.com/Oang/Mpesa-ledger-flutter-project/blob/develop/gif/delete-data.gif" alt="alt text" height="500px">
 
 ## Contributing
 
