@@ -5,7 +5,7 @@ This is an MPESA ledger project that receives and listens to SMS from MPESA to c
 
 Set Up|
 ------------ |
-<img src="https://github.com/Oang/Mpesa_test_ledger/tree/master/gif/set-up.gif" alt="alt text" height="500px"> | 
+<img src="https://github.com/Oang/Mpesa_test_ledger/blob/master/gif/set-up.gif" alt="alt text" height="500px"> | 
 
 ## Limitations
 As of now the project only supports Android phones
@@ -45,7 +45,7 @@ The following is the category page where you can see the default categories and 
 
 Category Page | Transaction Page | Create Category
 ------------ | ------------- | -------------
-<img src="https://github.com/Oang/Mpesa_test_ledger/tree/master/gif/category.gif" alt="alt text" height="500px"> | <img src="https://github.com/Oang/Mpesa_test_ledger/tree/master/gif/transaction-category.gif" alt="alt text" height="500px"> | <img src="https://github.com/Oang/Mpesa_test_ledger/tree/master/gif/create-category.gif" height="500px"> 
+<img src="https://github.com/Oang/Mpesa_test_ledger/blob/master/gif/category.gif" alt="alt text" height="500px"> | <img src="https://github.com/Oang/Mpesa_test_ledger/blob/master/gif/transaction-category.gif" alt="alt text" height="500px"> | <img src="https://github.com/Oang/Mpesa_test_ledger/blob/master/gif/create-category.gif" height="500px"> 
 
 ### Summary Page
 
@@ -53,14 +53,14 @@ The summary page shows the overall total of your transactions and a year monthly
 
 Summary Page|
 ------------ |
-<img src="https://github.com/Oang/Mpesa_test_ledger/tree/master/gif/summary.gif" alt="alt text" height="500px"> | 
+<img src="https://github.com/Oang/Mpesa_test_ledger/blob/master/gif/summary.gif" alt="alt text" height="500px"> | 
 ### Calculator
 
 You can use the calculator page to calculate the transaction charges
 
 Calculator Page|
 ------------ |
-<img src="https://github.com/Oang/Mpesa_test_ledger/tree/master/gif/calculator.gif" alt="alt text" height="500px"> | 
+<img src="https://github.com/Oang/Mpesa_test_ledger/blob/master/gif/calculator.gif" alt="alt text" height="500px"> | 
 
 ### Setting Page
 
@@ -68,7 +68,7 @@ The setting page allows you to change your theme and also delete all of your Mpe
 
 Change Theme | Delete All Data
 ------------ | -------------
-<img src="https://github.com/Oang/Mpesa_test_ledger/tree/master/gif/change-theme.gif" alt="alt text" height="500px"> | <img src="https://github.com/Oang/Mpesa_test_ledger/tree/master/gif/delete-data.gif" alt="alt text" height="500px">
+<img src="https://github.com/Oang/Mpesa_test_ledger/blob/master/gif/change-theme.gif" alt="alt text" height="500px"> | <img src="https://github.com/Oang/Mpesa_test_ledger/blob/master/gif/delete-data.gif" alt="alt text" height="500px">
 
 ## Contributing
 
